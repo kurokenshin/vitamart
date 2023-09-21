@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "latihan_3part2" "\0"
+            VALUE "FileDescription", "vitamart" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "latihan_3part2" "\0"
+            VALUE "InternalName", "vitamart" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "latihan_3part2.exe" "\0"
-            VALUE "ProductName", "latihan_3part2" "\0"
+            VALUE "OriginalFilename", "vitamart.exe" "\0"
+            VALUE "ProductName", "vitamart" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
